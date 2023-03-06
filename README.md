@@ -2,12 +2,9 @@
 
 </div>
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
-
 <div align="center">
 
-  <h1 align="center">Hi I'm Juan Diego Andrade Polimeni</h1>
+  <h1 align="center">Hola soy Juan Diego Andrade Polimeni</h1>
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Portfolio-%2B-green?style=flat&logo=twitter&logoColor=white"/></a>
     <a href=""><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -23,4 +20,4 @@ Con una mentalidad perseverante y enfocada en el logro de objetivos, me he dedic
 Me emociona la idea de seguir aprendiendo y explorando nuevas tecnologías, con el objetivo de seguir mejorando en el mundo de la programación y aportar soluciones innovadoras a problemas cotidianos.
 
 
-⚡ From [JuandiAndrade](https://github.com/JuandiAndrade)
+[JuandiAndrade](https://github.com/JuandiAndrade)
