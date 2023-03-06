@@ -22,12 +22,5 @@ Con una mentalidad perseverante y enfocada en el logro de objetivos, me he dedic
 
 Me emociona la idea de seguir aprendiendo y explorando nuevas tecnologías, con el objetivo de seguir mejorando en el mundo de la programación y aportar soluciones innovadoras a problemas cotidianos.
 
- 🔭 I'm a developer INSTRUCTOR [@BootcampHenry](https://www.soyhenry.com/) in Mendoza, Argentina
- 🔍 I have proyects apps: 
- Food app + Market Place LookinPlace
- 
- 💬 Ask me about *JavaScript ReactJs Redux NodeJs Postgres SQL*
-
- 
 
 ⚡ From [JuandiAndrade](https://github.com/JuandiAndrade)
