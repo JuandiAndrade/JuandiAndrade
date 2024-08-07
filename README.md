@@ -36,10 +36,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://sequelize.org/img/logo.svg" alt="Sequelize" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://zustand.pmnd.rs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/images/zustand.svg" alt="Zustand" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://seeklogo.com/images/Z/zustand-logo-2A2B6BF2C7-seeklogo.com.png" alt="Zustand" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
