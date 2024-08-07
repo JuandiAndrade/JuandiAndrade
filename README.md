@@ -4,6 +4,7 @@
   <p align="center">
     <a href="https://porfoliofront.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2B-green?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/juan-diego-andrade-polimeni-1a4501249/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/badge/npm-js-brightgreen"/></a>
   </p>
 
   <img src=".gif"/>
@@ -32,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
@@ -50,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://zustand.pmnd.rs/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/Z/zustand-logo-2A2B6BF2C7-seeklogo.com.png" alt="Zustand" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://seeklogo.com/images/Z/zustand-logo-1DC5776B6B-seeklogo.com.png" alt="Zustand" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
@@ -58,4 +59,3 @@
 
   [JuandiAndrade](https://github.com/JuandiAndrade)
 </div>
-
