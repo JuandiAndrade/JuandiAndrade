@@ -4,7 +4,6 @@
   <p align="center">
     <a href="https://porfoliofront.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2B-green?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/juan-diego-andrade-polimeni-1a4501249/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/npm-js-brightgreen"/></a>
   </p>
 
   <img src=".gif"/>
@@ -59,3 +58,4 @@
 
   [JuandiAndrade](https://github.com/JuandiAndrade)
 </div>
+
