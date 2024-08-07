@@ -32,14 +32,17 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+  </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://sequelize.org/img/logo.svg" alt="Sequelize" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
