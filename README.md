@@ -1,7 +1,3 @@
-<div align="center" width="50">
-
-</div>
-
 <div align="center">
 
   <h1 align="center">Hola soy Juan Diego Andrade Polimeni</h1>
@@ -37,16 +33,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://nodejs.org/static/images/logo.svg" alt="Nodejs" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
