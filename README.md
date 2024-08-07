@@ -17,52 +17,74 @@
 
   ## 🛠 Habilidades Full Stack Developer
 
-  <ul style="list-style-type: none; padding: 0; text-align: left; display: inline-block;">
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>HTML5: Desarrollo de estructuras web con las últimas tecnologías.</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>JavaScript: Programación dinámica y funcional para la web.</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>CSS3: Estilos y diseño visual avanzado para aplicaciones web.</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>React: Desarrollo de interfaces de usuario interactivas y eficientes.</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>Redux: Gestión predecible del estado de aplicaciones JavaScript.</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>Node.js: Entorno de ejecución para JavaScript en el servidor.</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>Express: Framework para aplicaciones web y APIs con Node.js.</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>Sequelize: ORM para Node.js con soporte para múltiples bases de datos.</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>PostgreSQL: Sistema de gestión de bases de datos relacional y objeto-relacional.</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>TypeScript: Superconjunto de JavaScript que añade tipos estáticos.</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60" style="vertical-align: middle; margin-right: 10px;" />
-      <span>WordPress: Sistema de gestión de contenidos para crear sitios web y blogs.</span>
-    </li>
-  </ul>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
+      </a>
+      <p>HTML5</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" />
+      </a>
+      <p>JavaScript</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" />
+      </a>
+      <p>CSS3</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" />
+      </a>
+      <p>React</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" />
+      </a>
+      <p>Redux</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="60" height="60" />
+      </a>
+      <p>Node.js</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60" />
+      </a>
+      <p>Express</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="60" height="60" />
+      </a>
+      <p>Sequelize</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60" />
+      </a>
+      <p>PostgreSQL</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
+      </a>
+      <p>TypeScript</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60" />
+      </a>
+      <p>WordPress</p>
+    </div>
+  </div>
 
   [JuandiAndrade](https://github.com/JuandiAndrade)
 </div>
